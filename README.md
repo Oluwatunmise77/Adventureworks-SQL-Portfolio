@@ -46,10 +46,6 @@ The project addresses 15 business questions across five key operational areas:
 4. **Purchasing & Vendor Management** (High-cost component vendors, purchase order comparisons, and multi-credit card profiles)
 5. **Advanced Sales & Operations Analysis** (Top-performing sales reps per territory, shipping cost outliers, and high-discount bulk special offers)
 
-## Project Files
-
-* `AdventureWorks_SQL_Portfolio.sql` — Contains all 15 business questions and their tested MySQL solutions.
-
 ## Conclusion
 
 This project demonstrates the application of SQL to business analysis and decision-making. It highlights how relational databases can be queried using joins, subqueries, and aggregations to identify trends, evaluate operational performance, and support informed business strategies.
